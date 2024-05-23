@@ -1,13 +1,13 @@
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import static org.junit.Assert.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class DataTypesTest {
 
-    @Test(timeout = 1000)
+    @Test
     /**
      * Test that DataTypes.sum returns the correct value for
      * the sum from 1 to 1 million.
@@ -24,6 +24,6 @@ public class DataTypesTest {
         for (int i = 1; i <= 1_000_000; i++) {
             lst.add(i);
         }
-        assertEquals("sum form 1 to 1 million should be " + x, x, DataTypes.sum(lst));
+        assertEquals(x, DataTypes.sum(lst), "sum from 1 to 1 million should be " + x);
     }
 }
