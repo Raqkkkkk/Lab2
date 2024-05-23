@@ -24,3 +24,9 @@
 4. Add a tablespoon of instant coffee to the dry ingredients for a hint of mocha flavor.
 5. Mix in a handful of chocolate chunks for extra indulgence.
 6. Line the bottom of the baking pan with parchment paper for easy cake removal.
+
+
+## Additional Directions by ChatGPT:
+7. Bake in the preheated oven for 25-30 minutes, or until a toothpick inserted into the center comes out clean.
+8. Allow the cake to cool in the pan for 10 minutes, then transfer it to a wire rack to cool completely before serving.
+9. Eat yay :D
